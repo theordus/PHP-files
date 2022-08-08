@@ -8,3 +8,5 @@ while ($n >= 0) {
 }
 echo "Sum of $num number is: $sum";
 ?>
+
+//this is the sum program in php
